@@ -2,7 +2,7 @@
 
 Just run the script <br>
 ```
-python3 project_4_script.py
+python3 pollution_script.py
 ```
 in your terminal.<br>
 
